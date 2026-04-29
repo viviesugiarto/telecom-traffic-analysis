@@ -1,4 +1,4 @@
-# telecom-traffic-analysis
+# TELECOM-TRAFFIC-ANALYSIS
 
 ## Data Generation
 
